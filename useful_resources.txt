@@ -1,0 +1,20 @@
+# External Resources
+
+Intro to types of classification algorithms in Machine Learning
+https://medium.com/@Mandysidana/machine-learning-types-of-classification-9497bd4f2e14
+
+
+Ensemble methods: bagging, boosting and stacking
+https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205
+
+
+Breast Cancer Classification Using Support Vector Machine (SVM)
+https://towardsdatascience.com/breast-cancer-classification-using-support-vector-machine-svm-a510907d4878
+
+
+Wisconsin Breast Cancer (Diagnostic) DataSet Analysis
+https://rstudio-pubs-static.s3.amazonaws.com/344010_1f4d6691092d4544bfbddb092e7223d2.html
+
+
+Weka Tutorial 35: Creating Training, Validation and Test Sets (Data Preprocessing)
+https://www.youtube.com/watch?v=uiDFa7iY9yo&list=WL&index=33&t=0s
