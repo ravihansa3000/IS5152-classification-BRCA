@@ -18,3 +18,6 @@ https://rstudio-pubs-static.s3.amazonaws.com/344010_1f4d6691092d4544bfbddb092e72
 
 Weka Tutorial 35: Creating Training, Validation and Test Sets (Data Preprocessing)
 https://www.youtube.com/watch?v=uiDFa7iY9yo&list=WL&index=33&t=0s
+
+Stacking - meta-classifier
+https://towardsdatascience.com/stacking-classifiers-for-higher-predictive-performance-566f963e4840
